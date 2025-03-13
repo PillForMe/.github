@@ -1,6 +1,7 @@
-# PillForMe  
+# PillForMe 
+
 <br/>  
-![소개화면](https://github.com/user-attachments/assets/8639c707-a891-4160-85c2-e13d42f98cca)
+![소개화면](https://github.com/user-attachments/assets/7bdf90b6-f609-4474-ac33-acc735fc5930)
 <br/>  
 
 **"Pill for Me"**는 개인 맞춤형 영양제 조합 추천 서비스입니다.  
