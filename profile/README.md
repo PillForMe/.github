@@ -18,6 +18,10 @@ OCR과 GA(Genetic Algorithm) 기반 최적화 기법을 활용하여 맞춤형 �
 ![아키텍처](https://github.com/user-attachments/assets/eb557a70-e7f9-48bf-82d4-08c1074f410c)
 <br/>
 
+### ✨ 발표 자료 링크
+https://www.slideshare.net/slideshow/20-boaz-19-boaz-pill-az-pill-for-me/270919517
+<br/>
+
 ### 📽️ 발표 및 시연 영상  
 [![영상 재생](https://img.youtube.com/vi/-ulZOF3TM_0/0.jpg)](https://www.youtube.com/watch?v=-ulZOF3TM_0)  
 <br/>  
